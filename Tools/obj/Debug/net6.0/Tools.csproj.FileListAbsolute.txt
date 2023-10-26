@@ -1,0 +1,12 @@
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\bin\Debug\net6.0\Tools.deps.json
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\bin\Debug\net6.0\Tools.dll
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\bin\Debug\net6.0\Tools.pdb
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.dll
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\refint\Tools.dll
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\Tools.pdb
+C:\Users\ARIBILGI\Desktop\ilkerhoca\MCSD18\CoreMonolithic\Tools\obj\Debug\net6.0\ref\Tools.dll
